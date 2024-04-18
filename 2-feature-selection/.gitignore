@@ -1,0 +1,5 @@
+data/
+catboost_info/
+
+submission.csv
+selected_features.json
